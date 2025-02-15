@@ -6,7 +6,7 @@ Hi 👋 My name is Alexander Arias
 Developer
 ---------
 
-* 🌍  I'm based in Guatemala
+* 🌍  I'm based in Guatemala.
 
 ### Skills
 
