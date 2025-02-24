@@ -32,6 +32,19 @@ Developer
 
 <a href="https://github.com/201114771Alterlex" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=201114771Alterlex&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+
+***
+
+<a href="https://github.com/201114771Alterlex">
+  <img src="https://github-readme-stats.vercel.app/api?username=201114771Alterlex&show_icons=true&hide_border=true" />
+</a>
+
+---
+
+<a href="https://github.com/201114771Alterlex">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=201114771Alterlex&layout=compact" />
+</a>
+
 <!--
 **201114771AlterLex/201114771AlterLex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
